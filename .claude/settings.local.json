@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx:*)",
+      "Bash(rsync -av --exclude='CLAUDE.md' --exclude='.git' sona-detailing-tmp/ sona-detailing/)",
+      "Bash(rm -rf sona-detailing-tmp)",
+      "Bash(npm run:*)",
+      "WebFetch(domain:maps.app.goo.gl)",
+      "WebFetch(domain:www.google.com)"
+    ]
+  }
+}
