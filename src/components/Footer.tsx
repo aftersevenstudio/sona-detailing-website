@@ -23,8 +23,8 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href='mailto:hello@sonadetailing.com' className='hover:text-[#b4823c] transition-colors'>
-                  hello@sonadetailing.com
+                <a href='mailto:jeffsona1@gmail.com' className='hover:text-[#b4823c] transition-colors'>
+                  jeffsona1@gmail.com
                 </a>
               </li>
               <li>Frisco, TX 75034</li>

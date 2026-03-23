@@ -4,6 +4,7 @@ import { Gallery } from '@/src/components/Gallery';
 import { Hero } from '@/src/components/Hero';
 import { Reviews } from '@/src/components/Reviews';
 import { Services } from '@/src/components/Services';
+import { StickyCallBar } from '@/src/components/StickyCallBar';
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Reviews />
       <Booking />
       <Footer />
+      <StickyCallBar />
     </main>
   );
 }

@@ -11,7 +11,7 @@ const geistSans = Geist({
 export const metadata: Metadata = {
   metadataBase: new URL('https://sonadetailing.com'),
   title: {
-    default: 'Sona Mobile Detailing | Frisco, TX',
+    default: 'Sona Mobile Detailing | Mobile Auto Detailing in Frisco, TX',
     template: '%s | Sona Mobile Detailing',
   },
   description:
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     canonical: 'https://sonadetailing.com',
   },
   openGraph: {
-    title: 'Sona Mobile Detailing | Frisco, TX',
+    title: 'Sona Mobile Detailing | Mobile Auto Detailing in Frisco, TX',
     description:
       'Professional mobile auto detailing in Frisco, TX and surrounding DFW suburbs. We come to you — book your appointment today.',
     url: 'https://sonadetailing.com',
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Sona Mobile Detailing | Frisco, TX',
+    title: 'Sona Mobile Detailing | Mobile Auto Detailing in Frisco, TX',
     description: 'Professional mobile auto detailing in Frisco, TX. We come to you.',
     images: ['/opengraph-image.jpg'],
   },
