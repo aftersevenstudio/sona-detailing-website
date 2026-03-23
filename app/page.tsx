@@ -10,7 +10,7 @@ export default function Home() {
     <main className='flex flex-col flex-1'>
       <Hero />
       <Services />
-      <Gallery />
+      {/* <Gallery /> */}
       <Reviews />
       <Booking />
       <Footer />

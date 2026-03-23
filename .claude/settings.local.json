@@ -6,7 +6,9 @@
       "Bash(rm -rf sona-detailing-tmp)",
       "Bash(npm run:*)",
       "WebFetch(domain:maps.app.goo.gl)",
-      "WebFetch(domain:www.google.com)"
+      "WebFetch(domain:www.google.com)",
+      "Bash(pkill:*)",
+      "Bash(git add:*)"
     ]
   }
 }
