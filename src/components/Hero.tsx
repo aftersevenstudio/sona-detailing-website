@@ -23,7 +23,7 @@ export function Hero() {
         {/* Subheadline */}
         <p className='text-lg sm:text-xl text-white/60 max-w-2xl mx-auto mb-10 leading-relaxed'>
           Sona Mobile Detailing delivers professional-grade auto detailing at your home or office.
-          No drop-offs, no waiting — just a spotless car.
+          No drop-offs, no waiting. Just a spotless car.
         </p>
 
         {/* CTAs */}
